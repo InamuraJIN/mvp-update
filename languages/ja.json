@@ -246,6 +246,23 @@
   "There is no other language to add.": "追加できる言語はありません。",
   "Downloading ...": "ダウンロード中 ...",
   "The download failed. Try again later.": "ダウンロードに失敗しました。後でもう一度お試しください。",
-  "Limit Reached": "上限に達しました"
+  "Limit Reached": "上限に達しました",
+  "A drop-down list or color picker closes when the mouse moves this far away from it.": "マウスがこの距離以上離れると、プルダウンリストやカラーピッカーを閉じます。",
+  "Also include the Highlight Border when only one video is captured. Off = that picture shows the video only.": "動画1本だけをキャプチャするときにもハイライト枠を含めます。オフの場合は動画のみの画像になります。",
+  "Alt + wheel steps the frames: wheel toward you = forward, away = back. The first notches move the slow step, the later ones the fast step.": "Alt+ホイールでフレームを送ります。手前に回すと進み、奥に回すと戻ります。最初の数回は低速ステップ、その後は高速ステップで動きます。",
+  "Border for a single video": "1本のときも枠を含める",
+  "Close when far": "離れたら閉じる",
+  "Controls": "操作",
+  "Distance (px)": "距離(px)",
+  "Draw the name label in the capture. Without the seekbar it is drawn at its lower position.": "キャプチャに名前ラベルを含めます。シークバーを含めない場合、ラベルは下の位置で描かれます。",
+  "Fast step (frames)": "高速ステップ(フレーム)",
+  "Frame scroll (Alt + wheel)": "フレーム送り(Alt+ホイール)",
+  "How many rows the mouse wheel moves in Favorites and Ranking (one notch).": "お気に入りとランキングで、ホイール1目盛りで動く行数。",
+  "Include Name Label": "名前ラベルを含める",
+  "Left: first video, middle: 50:50, right: second video. Double-click to center.": "左: 1本目の動画、中央: 50:50、右: 2本目の動画。ダブルクリックで中央に戻します。",
+  "Menus": "メニュー",
+  "Overlay the two videos": "2本の動画を重ねる",
+  "Slow notches": "低速の回数",
+  "Slow step (frames)": "低速ステップ(フレーム)"
  }
 }

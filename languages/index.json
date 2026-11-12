@@ -1,5 +1,19 @@
 {
  "languages": [
-  {"code": "ja", "name": "日本語", "file": "ja.json"}
+  {
+   "code": "ja",
+   "name": "日本語",
+   "file": "ja.json"
+  },
+  {
+   "code": "es",
+   "name": "Español",
+   "file": "es.json"
+  },
+  {
+   "code": "zh-CN",
+   "name": "简体中文",
+   "file": "zh-CN.json"
+  }
  ]
 }
