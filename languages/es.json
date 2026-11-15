@@ -306,6 +306,10 @@
   "{a} starts when the video chosen below reaches the frame it was on a moment ago.": "{a} empieza cuando el vídeo elegido abajo llega al fotograma en el que estaba hace un momento.",
   "{who}   frame {n}   {name}": "{who}   fotograma {n}   {name}",
   "Start": "Iniciar",
-  "Delayed Play can be used for 10 minutes a day in the free edition. It is available again tomorrow.": "En la edición gratuita, la reproducción retardada se puede usar 10 minutos al día. Estará disponible de nuevo mañana."
+  "Delayed Play can be used for 10 minutes a day in the free edition. It is available again tomorrow.": "En la edición gratuita, la reproducción retardada se puede usar 10 minutos al día. Estará disponible de nuevo mañana.",
+  "Free Trimming...": "Recorte libre...",
+  "Free Trimming": "Recorte libre",
+  "Tall": "Alto",
+  "Compare Videos can be used for 10 minutes a day in the free edition. It is available again tomorrow.": "En la edición gratuita, la comparación de vídeos se puede usar 10 minutos al día. Estará disponible de nuevo mañana."
  }
 }
