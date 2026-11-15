@@ -295,6 +295,17 @@
   "{who} starts {n} frames ({sec} s) before {ref}": "{who} empieza {n} fotogramas ({sec} s) antes de {ref}",
   "Displayed (min)": "Mostrado (min)",
   "Opened": "Abierto",
-  "Repeats": "Repeticiones"
+  "Repeats": "Repeticiones",
+  "Compare Videos": "Comparar vídeos",
+  "Mix (Factor)": "Mezcla (Factor)",
+  "Wipe": "Cortinilla",
+  "Narrow": "Estrecho",
+  "Wide": "Ancho",
+  "Stop Delayed Play": "Detener reproducción retardada",
+  "Delayed video: {a}": "Vídeo retardado: {a}",
+  "{a} starts when the video chosen below reaches the frame it was on a moment ago.": "{a} empieza cuando el vídeo elegido abajo llega al fotograma en el que estaba hace un momento.",
+  "{who}   frame {n}   {name}": "{who}   fotograma {n}   {name}",
+  "Start": "Iniciar",
+  "Delayed Play can be used for 10 minutes a day in the free edition. It is available again tomorrow.": "En la edición gratuita, la reproducción retardada se puede usar 10 minutos al día. Estará disponible de nuevo mañana."
  }
 }

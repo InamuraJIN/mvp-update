@@ -295,6 +295,17 @@
   "{who} starts {n} frames ({sec} s) before {ref}": "{who}比{ref}早{n}帧({sec}秒)开始",
   "Displayed (min)": "显示(分)",
   "Opened": "打开次数",
-  "Repeats": "重复次数"
+  "Repeats": "重复次数",
+  "Compare Videos": "对比视频",
+  "Mix (Factor)": "混合(Factor)",
+  "Wipe": "擦除",
+  "Narrow": "窄",
+  "Wide": "宽",
+  "Stop Delayed Play": "停止延迟播放",
+  "Delayed video: {a}": "延迟的视频:{a}",
+  "{a} starts when the video chosen below reaches the frame it was on a moment ago.": "下面所选的视频到达刚才所在的帧时,{a}开始播放。",
+  "{who}   frame {n}   {name}": "{who}   第 {n} 帧   {name}",
+  "Start": "开始",
+  "Delayed Play can be used for 10 minutes a day in the free edition. It is available again tomorrow.": "免费版每天可使用延迟播放10分钟,明天可再次使用。"
  }
 }

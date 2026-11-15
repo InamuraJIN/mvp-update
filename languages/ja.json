@@ -295,6 +295,17 @@
   "{who} starts {n} frames ({sec} s) before {ref}": "{who}は{ref}より{n}フレーム({sec}秒)早く開始",
   "Displayed (min)": "表示(分)",
   "Opened": "表示回数",
-  "Repeats": "リピート"
+  "Repeats": "リピート",
+  "Compare Videos": "動画を比較",
+  "Mix (Factor)": "ミックス(Factor)",
+  "Wipe": "ワイプ",
+  "Narrow": "狭く",
+  "Wide": "広く",
+  "Stop Delayed Play": "遅延再生を解除",
+  "Delayed video: {a}": "遅延させる動画:{a}",
+  "{a} starts when the video chosen below reaches the frame it was on a moment ago.": "下で選んだ動画が、先ほど表示されていたフレームに到達した時点で{a}を再生開始します。",
+  "{who}   frame {n}   {name}": "{who}   フレーム {n}   {name}",
+  "Start": "開始",
+  "Delayed Play can be used for 10 minutes a day in the free edition. It is available again tomorrow.": "無料版では遅延再生は1日10分まで使えます。明日また使えるようになります。"
  }
 }
