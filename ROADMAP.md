@@ -1,6 +1,10 @@
 # Multi Video Player — Roadmap & Updates
 
-## ✅ Shipped — v1.x
+> Edit this file on GitHub to update the roadmap. Changes appear on the site within 5 minutes.
+
+---
+
+## Shipped — v1.x
 
 - [x] License key purchase (PayPal sandbox)
 - [x] License key shown on screen after purchase
@@ -11,14 +15,21 @@
 
 ---
 
-## 📋 Planned — v1.x
+## In Progress — v1.x
+
+- [ ] PayPal Live (production) switch
+- [ ] Microsoft Store listing
+
+---
+
+## Planned — v1.x
 
 - [ ] Purchase confirmation email
 - [ ] EXE installer download page
 
 ---
 
-## 🗺️ v2.0 Roadmap
+## v2.0 Roadmap
 
 ### Lists (Favorites & Rankings)
 
@@ -73,13 +84,13 @@
 
 ---
 
-## 🐛 Known Issues
+## Known Issues
 
 - None at this time
 
 ---
 
-## 📦 Version History
+## Version History
 
 ### v0.1.0 — 2026-11-16
 
