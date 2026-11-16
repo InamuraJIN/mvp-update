@@ -1,7 +1,5 @@
 # Multi Video Player — Roadmap & Updates
 
----
-
 ## ✅ Shipped — v1.x
 
 - [x] License key purchase (PayPal sandbox)
