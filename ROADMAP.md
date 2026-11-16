@@ -1,7 +1,5 @@
 # Multi Video Player — Roadmap & Updates
 
-> Edit this file on GitHub to update the roadmap. Changes appear on the site within 5 minutes.
-
 ---
 
 ## ✅ Shipped — v1.x
@@ -12,13 +10,6 @@
 - [x] License lookup page (order number + email)
 - [x] Admin panel (orders, activations, contacts, audit log)
 - [x] Public website (license-store.buugraphic.workers.dev)
-
----
-
-## 🚧 In Progress — v1.x
-
-- [ ] PayPal Live (production) switch
-- [ ] Microsoft Store listing
 
 ---
 
