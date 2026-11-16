@@ -573,6 +573,8 @@
   "not built (run from the sources)": "sin compilar (ejecutado desde el código fuente)",
   "not updated since the install": "sin actualizar desde la instalación",
   "{d} days {h} h": "{d} días {h} h",
-  "{h} h": "{h} h"
+  "{h} h": "{h} h",
+  "Ctrl + drag: the lines between the videos now lie on the borders of the videos (in the free edition they could show inside a video), and follow the pointer without blinking or jumping.": "Ctrl + arrastrar: las líneas entre los vídeos ahora quedan en los bordes de los vídeos (en la edición gratuita podían aparecer dentro de un vídeo) y siguen al puntero sin parpadear ni saltar.",
+  "The lines between the videos and the Wipe divider of Compare Videos are drawn in a lighter shade of the Accent colour (Settings > Display > Layout).": "Las líneas entre los vídeos y el divisor de la Cortinilla de Comparar vídeos se dibujan con un tono más claro del color de Acento (Ajustes > Pantalla > Disposición)."
  }
 }

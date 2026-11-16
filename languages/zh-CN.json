@@ -573,6 +573,8 @@
   "not built (run from the sources)": "未构建(从源代码运行)",
   "not updated since the install": "安装后未更新",
   "{d} days {h} h": "{d}天{h}小时",
-  "{h} h": "{h}小时"
+  "{h} h": "{h}小时",
+  "Ctrl + drag: the lines between the videos now lie on the borders of the videos (in the free edition they could show inside a video), and follow the pointer without blinking or jumping.": "Ctrl + 拖动：视频之间的分隔线现在位于视频的边界上（免费版中可能会显示在视频内部），拖动时跟随指针，不再闪烁或跳动。",
+  "The lines between the videos and the Wipe divider of Compare Videos are drawn in a lighter shade of the Accent colour (Settings > Display > Layout).": "视频之间的分隔线和“对比视频”中擦除的分界线，使用强调色（设置 > 显示 > 布局）的浅色显示。"
  }
 }

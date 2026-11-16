@@ -573,6 +573,8 @@
   "not built (run from the sources)": "未ビルド(ソースから実行)",
   "not updated since the install": "インストール後は更新されていません",
   "{d} days {h} h": "{d}日{h}時間",
-  "{h} h": "{h}時間"
+  "{h} h": "{h}時間",
+  "Ctrl + drag: the lines between the videos now lie on the borders of the videos (in the free edition they could show inside a video), and follow the pointer without blinking or jumping.": "Ctrl + ドラッグ: 動画の間の線が動画の境目に表示されるようになりました（無料版では動画の中に表示されることがありました）。ドラッグ中も点滅したり飛んだりせず、ポインターに沿って動きます。",
+  "The lines between the videos and the Wipe divider of Compare Videos are drawn in a lighter shade of the Accent colour (Settings > Display > Layout).": "動画の間の線と、「動画を比較」のワイプの境界線は、Settings > 表示 > レイアウト > アクセント の色を淡くした色で表示されます。"
  }
 }
