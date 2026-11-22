@@ -687,6 +687,18 @@
   "Splash Screen / Tool Tips": "Pantalla de inicio / información emergente",
   "Show Splash": "Mostrar la pantalla de inicio",
   "Volume per video": "Volumen por vídeo",
-  "On: with a video selected, the volume bar sets that video's own volume (none selected: the others). Off: one volume for all videos.": "Activado: con un vídeo seleccionado, la barra de volumen ajusta el volumen propio de ese vídeo (sin selección: el de los demás). Desactivado: un solo volumen para todos los vídeos."
+  "On: with a video selected, the volume bar sets that video's own volume (none selected: the others). Off: one volume for all videos.": "Activado: con un vídeo seleccionado, la barra de volumen ajusta el volumen propio de ese vídeo (sin selección: el de los demás). Desactivado: un solo volumen para todos los vídeos.",
+  "Reverse Play": "Reproducir al revés",
+  "Reverse play / Pause": "Reproducir al revés / Pausa",
+  "Stay open on click": "No cerrar al hacer clic",
+  "On: a click on a menu item does its job and the menu stays open (it closes when the mouse moves away, with a click outside or Esc; an item that opens a window closes it). Off: a click closes the menu.": "Activado: un clic en un elemento del menú hace su función y el menú sigue abierto (se cierra al alejar el ratón, con un clic fuera o con Esc; un elemento que abre una ventana lo cierra). Desactivado: un clic cierra el menú.",
+  "Mouse": "Ratón",
+  "Hold: faster": "Mantener: más rápido",
+  "Speed (x)": "Velocidad (x)",
+  "Hold (s)": "Mantener (s)",
+  "Holding the left button still on a video plays it at this speed while held (a paused video plays until the button is let go). Moving first drags the video to another cell instead.": "Mantener pulsado el botón izquierdo sin mover sobre un vídeo lo reproduce a esta velocidad mientras se mantiene (un vídeo en pausa se reproduce hasta soltar el botón). Si primero se mueve el ratón, el vídeo se arrastra a otra celda.",
+  "Drop onto a video": "Soltar sobre un vídeo",
+  "When every cell is in use, a video dropped onto one replaces that one, whatever is selected. Off: it replaces the selected video.": "Cuando todas las celdas están en uso, un vídeo soltado sobre una reemplaza ese vídeo, sea cual sea la selección. Desactivado: reemplaza el vídeo seleccionado.",
+  "Drag with the middle button (wheel) to move a zoomed-in video.": "Arrastra con el botón central (rueda) para mover un vídeo ampliado."
  }
 }

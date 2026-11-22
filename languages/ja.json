@@ -687,6 +687,18 @@
   "Splash Screen / Tool Tips": "スプラッシュスクリーン / ツールチップ",
   "Show Splash": "スプラッシュスクリーンを表示",
   "Volume per video": "動画ごとの音量",
-  "On: with a video selected, the volume bar sets that video's own volume (none selected: the others). Off: one volume for all videos.": "オン: 動画を選択しているときは、音量バーでその動画だけの音量を変えます（未選択のときはそれ以外）。オフ: すべての動画で同じ音量です。"
+  "On: with a video selected, the volume bar sets that video's own volume (none selected: the others). Off: one volume for all videos.": "オン: 動画を選択しているときは、音量バーでその動画だけの音量を変えます（未選択のときはそれ以外）。オフ: すべての動画で同じ音量です。",
+  "Reverse Play": "逆再生",
+  "Reverse play / Pause": "逆再生 / 一時停止",
+  "Stay open on click": "クリックしても閉じない",
+  "On: a click on a menu item does its job and the menu stays open (it closes when the mouse moves away, with a click outside or Esc; an item that opens a window closes it). Off: a click closes the menu.": "オン: メニュー項目をクリックしても、その操作をしたうえでメニューは開いたままです（マウスを遠ざける、外側をクリックする、Esc で閉じます。ウィンドウを開く項目では閉じます）。オフ: クリックするとメニューが閉じます。",
+  "Mouse": "マウス",
+  "Hold: faster": "長押しで倍速",
+  "Speed (x)": "速度 (倍)",
+  "Hold (s)": "長押し時間 (秒)",
+  "Holding the left button still on a video plays it at this speed while held (a paused video plays until the button is let go). Moving first drags the video to another cell instead.": "動画の上で左ボタンを動かさずに押し続けると、押している間この速度で再生します（一時停止中の動画は、ボタンを離すまで再生します）。先にマウスを動かすと、動画を別のセルへドラッグする操作になります。",
+  "Drop onto a video": "ドロップ先の動画と差し替え",
+  "When every cell is in use, a video dropped onto one replaces that one, whatever is selected. Off: it replaces the selected video.": "すべてのセルが使用中のとき、ドロップした動画は選択状態に関わらず、ドロップした位置の動画と差し替えます。オフ: 選択中の動画と差し替えます。",
+  "Drag with the middle button (wheel) to move a zoomed-in video.": "ズーム中の動画は、中ボタン（ホイール）でドラッグすると移動できます。"
  }
 }

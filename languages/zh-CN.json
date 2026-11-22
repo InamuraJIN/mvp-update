@@ -687,6 +687,18 @@
   "Splash Screen / Tool Tips": "启动画面 / 工具提示",
   "Show Splash": "显示启动画面",
   "Volume per video": "每个视频单独音量",
-  "On: with a video selected, the volume bar sets that video's own volume (none selected: the others). Off: one volume for all videos.": "开启：选中视频时，音量条只调整该视频的音量（未选中时调整其他视频）。关闭：所有视频使用同一音量。"
+  "On: with a video selected, the volume bar sets that video's own volume (none selected: the others). Off: one volume for all videos.": "开启：选中视频时，音量条只调整该视频的音量（未选中时调整其他视频）。关闭：所有视频使用同一音量。",
+  "Reverse Play": "倒放",
+  "Reverse play / Pause": "倒放 / 暂停",
+  "Stay open on click": "点击后不关闭",
+  "On: a click on a menu item does its job and the menu stays open (it closes when the mouse moves away, with a click outside or Esc; an item that opens a window closes it). Off: a click closes the menu.": "开启：点击菜单项会执行操作，菜单保持打开（鼠标移开、点击外部或按 Esc 时关闭；打开窗口的菜单项会关闭菜单）。关闭：点击后菜单关闭。",
+  "Mouse": "鼠标",
+  "Hold: faster": "长按：加速",
+  "Speed (x)": "速度（倍）",
+  "Hold (s)": "长按时间（秒）",
+  "Holding the left button still on a video plays it at this speed while held (a paused video plays until the button is let go). Moving first drags the video to another cell instead.": "在视频上按住左键不动时，按住期间以此速度播放（暂停的视频会播放到松开按键为止）。先移动鼠标则改为把视频拖到另一个格子。",
+  "Drop onto a video": "拖放到视频上",
+  "When every cell is in use, a video dropped onto one replaces that one, whatever is selected. Off: it replaces the selected video.": "所有格子都在使用时，拖放的视频会替换放下位置的视频，与选择状态无关。关闭：替换所选的视频。",
+  "Drag with the middle button (wheel) to move a zoomed-in video.": "按住中键（滚轮）拖动可移动放大的视频。"
  }
 }
