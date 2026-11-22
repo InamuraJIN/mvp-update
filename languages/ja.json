@@ -684,6 +684,9 @@
   "Donate": "寄付する",
   "Open...": "開く...",
   "Recover Last Session": "前回のセッションを復元",
-  "Splash Screen / Tool Tips": "スプラッシュスクリーン / ツールチップ"
+  "Splash Screen / Tool Tips": "スプラッシュスクリーン / ツールチップ",
+  "Show Splash": "スプラッシュスクリーンを表示",
+  "Volume per video": "動画ごとの音量",
+  "On: with a video selected, the volume bar sets that video's own volume (none selected: the others). Off: one volume for all videos.": "オン: 動画を選択しているときは、音量バーでその動画だけの音量を変えます（未選択のときはそれ以外）。オフ: すべての動画で同じ音量です。"
  }
 }

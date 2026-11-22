@@ -684,6 +684,9 @@
   "Donate": "Donar",
   "Open...": "Abrir...",
   "Recover Last Session": "Recuperar la última sesión",
-  "Splash Screen / Tool Tips": "Pantalla de inicio / información emergente"
+  "Splash Screen / Tool Tips": "Pantalla de inicio / información emergente",
+  "Show Splash": "Mostrar la pantalla de inicio",
+  "Volume per video": "Volumen por vídeo",
+  "On: with a video selected, the volume bar sets that video's own volume (none selected: the others). Off: one volume for all videos.": "Activado: con un vídeo seleccionado, la barra de volumen ajusta el volumen propio de ese vídeo (sin selección: el de los demás). Desactivado: un solo volumen para todos los vídeos."
  }
 }

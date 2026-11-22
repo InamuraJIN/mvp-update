@@ -684,6 +684,9 @@
   "Donate": "捐赠",
   "Open...": "打开...",
   "Recover Last Session": "恢复上次会话",
-  "Splash Screen / Tool Tips": "启动画面 / 工具提示"
+  "Splash Screen / Tool Tips": "启动画面 / 工具提示",
+  "Show Splash": "显示启动画面",
+  "Volume per video": "每个视频单独音量",
+  "On: with a video selected, the volume bar sets that video's own volume (none selected: the others). Off: one volume for all videos.": "开启：选中视频时，音量条只调整该视频的音量（未选中时调整其他视频）。关闭：所有视频使用同一音量。"
  }
 }
