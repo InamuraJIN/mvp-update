@@ -699,6 +699,24 @@
   "Holding the left button still on a video plays it at this speed while held (a paused video plays until the button is let go). Moving first drags the video to another cell instead.": "動画の上で左ボタンを動かさずに押し続けると、押している間この速度で再生します（一時停止中の動画は、ボタンを離すまで再生します）。先にマウスを動かすと、動画を別のセルへドラッグする操作になります。",
   "Drop onto a video": "ドロップ先の動画と差し替え",
   "When every cell is in use, a video dropped onto one replaces that one, whatever is selected. Off: it replaces the selected video.": "すべてのセルが使用中のとき、ドロップした動画は選択状態に関わらず、ドロップした位置の動画と差し替えます。オフ: 選択中の動画と差し替えます。",
-  "Drag with the middle button (wheel) to move a zoomed-in video.": "ズーム中の動画は、中ボタン（ホイール）でドラッグすると移動できます。"
+  "Drag with the middle button (wheel) to move a zoomed-in video.": "ズーム中の動画は、中ボタン（ホイール）でドラッグすると移動できます。",
+  "Opacity": "不透明度",
+  "Max videos": "最大動画数",
+  "How many videos can play at once (4 - 12). Lowering it closes the videos beyond it. The free edition can try more than 4 for one hour, once (closing the program ends the hour).": "同時に再生できる動画の数です（4～12）。減らすと、それを超える動画は閉じます。無料版は 4 本を超える数を 1 時間だけ、1 回限り試せます（プログラムを閉じるとその時点で終了します）。",
+  "Raising this may make the program slower.": "この値を上げると、プログラムが重くなる可能性があります。",
+  "Every video is decoded at the same time: more videos need more of the processor and memory.": "すべての動画を同時にデコードするため、動画が多いほど CPU とメモリを多く使います。",
+  "Do not show again": "今後表示しない",
+  "Try more than 4 videos for {m} minutes?": "4 本を超える動画を {m} 分間試しますか？",
+  "The free edition can play more than 4 videos at once for {m} minutes, once. It starts now and it is used up even if the program is closed before the time is over. More videos may make the program slower.\n\nThe full version has no limits.": "無料版では、4 本を超える動画の同時再生を {m} 分間、1 回だけ試せます。今すぐ始まり、時間内にプログラムを閉じた場合もそれで使い切りになります。動画が多いとプログラムが重くなる可能性があります。\n\n製品版には制限がありません。",
+  "The hour of more than 4 videos has been used.": "4 本を超える動画の 1 時間は使用済みです。",
+  "The time of more than 4 videos is over.": "4 本を超える動画の時間が終了しました。",
+  "More-videos time left {t}": "動画追加時間 残り {t}",
+  "Whatever is selected: a video dropped onto a video replaces it; dropped onto the ground around the videos (with 1 - 2 videos, also near the edge of the window) it is added. When every cell is in use it replaces the video under it. Off: it is added, or replaces the selected video when every cell is in use.": "選択状態に関わらず、動画の上にドロップするとその動画と差し替え、動画の周りの背景部分（動画が 1～2 本のときはウィンドウの端付近も）にドロップすると追加します。すべてのセルが使用中のときは、ドロップした位置の動画と差し替えます。オフ: 追加します（すべてのセルが使用中のときは選択中の動画と差し替えます）。",
+  "Grid 3 x 2": "グリッド 3 × 2",
+  "Grid 2 x 3": "グリッド 2 × 3",
+  "Grid 3 x 3": "グリッド 3 × 3",
+  "Grid 4 x 3": "グリッド 4 × 3",
+  "Grid 3 x 4": "グリッド 3 × 4",
+  "Grid 4 x 4": "グリッド 4 × 4"
  }
 }

@@ -699,6 +699,24 @@
   "Holding the left button still on a video plays it at this speed while held (a paused video plays until the button is let go). Moving first drags the video to another cell instead.": "Mantener pulsado el botón izquierdo sin mover sobre un vídeo lo reproduce a esta velocidad mientras se mantiene (un vídeo en pausa se reproduce hasta soltar el botón). Si primero se mueve el ratón, el vídeo se arrastra a otra celda.",
   "Drop onto a video": "Soltar sobre un vídeo",
   "When every cell is in use, a video dropped onto one replaces that one, whatever is selected. Off: it replaces the selected video.": "Cuando todas las celdas están en uso, un vídeo soltado sobre una reemplaza ese vídeo, sea cual sea la selección. Desactivado: reemplaza el vídeo seleccionado.",
-  "Drag with the middle button (wheel) to move a zoomed-in video.": "Arrastra con el botón central (rueda) para mover un vídeo ampliado."
+  "Drag with the middle button (wheel) to move a zoomed-in video.": "Arrastra con el botón central (rueda) para mover un vídeo ampliado.",
+  "Opacity": "Opacidad",
+  "Max videos": "Máx. de vídeos",
+  "How many videos can play at once (4 - 12). Lowering it closes the videos beyond it. The free edition can try more than 4 for one hour, once (closing the program ends the hour).": "Cuántos vídeos se pueden reproducir a la vez (4 - 12). Al bajarlo se cierran los vídeos que sobran. La edición gratuita puede probar más de 4 durante una hora, una sola vez (cerrar el programa termina la hora).",
+  "Raising this may make the program slower.": "Subir este valor puede hacer que el programa vaya más lento.",
+  "Every video is decoded at the same time: more videos need more of the processor and memory.": "Todos los vídeos se decodifican a la vez: más vídeos necesitan más procesador y memoria.",
+  "Do not show again": "No volver a mostrar",
+  "Try more than 4 videos for {m} minutes?": "¿Probar más de 4 vídeos durante {m} minutos?",
+  "The free edition can play more than 4 videos at once for {m} minutes, once. It starts now and it is used up even if the program is closed before the time is over. More videos may make the program slower.\n\nThe full version has no limits.": "La edición gratuita puede reproducir más de 4 vídeos a la vez durante {m} minutos, una sola vez. Empieza ahora y se gasta aunque el programa se cierre antes de que termine el tiempo. Más vídeos pueden hacer que el programa vaya más lento.\n\nLa versión completa no tiene límites.",
+  "The hour of more than 4 videos has been used.": "Ya se ha usado la hora de más de 4 vídeos.",
+  "The time of more than 4 videos is over.": "Ha terminado el tiempo de más de 4 vídeos.",
+  "More-videos time left {t}": "Tiempo de más vídeos: quedan {t}",
+  "Whatever is selected: a video dropped onto a video replaces it; dropped onto the ground around the videos (with 1 - 2 videos, also near the edge of the window) it is added. When every cell is in use it replaces the video under it. Off: it is added, or replaces the selected video when every cell is in use.": "Sea cual sea la selección: un vídeo soltado sobre un vídeo lo reemplaza; soltado sobre el fondo alrededor de los vídeos (con 1 - 2 vídeos, también cerca del borde de la ventana) se añade. Con todas las celdas en uso reemplaza el vídeo que hay debajo. Desactivado: se añade, o reemplaza el vídeo seleccionado cuando todas las celdas están en uso.",
+  "Grid 3 x 2": "Cuadrícula 3 × 2",
+  "Grid 2 x 3": "Cuadrícula 2 × 3",
+  "Grid 3 x 3": "Cuadrícula 3 × 3",
+  "Grid 4 x 3": "Cuadrícula 4 × 3",
+  "Grid 3 x 4": "Cuadrícula 3 × 4",
+  "Grid 4 x 4": "Cuadrícula 4 × 4"
  }
 }

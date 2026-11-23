@@ -699,6 +699,24 @@
   "Holding the left button still on a video plays it at this speed while held (a paused video plays until the button is let go). Moving first drags the video to another cell instead.": "在视频上按住左键不动时，按住期间以此速度播放（暂停的视频会播放到松开按键为止）。先移动鼠标则改为把视频拖到另一个格子。",
   "Drop onto a video": "拖放到视频上",
   "When every cell is in use, a video dropped onto one replaces that one, whatever is selected. Off: it replaces the selected video.": "所有格子都在使用时，拖放的视频会替换放下位置的视频，与选择状态无关。关闭：替换所选的视频。",
-  "Drag with the middle button (wheel) to move a zoomed-in video.": "按住中键（滚轮）拖动可移动放大的视频。"
+  "Drag with the middle button (wheel) to move a zoomed-in video.": "按住中键（滚轮）拖动可移动放大的视频。",
+  "Opacity": "不透明度",
+  "Max videos": "最多视频数",
+  "How many videos can play at once (4 - 12). Lowering it closes the videos beyond it. The free edition can try more than 4 for one hour, once (closing the program ends the hour).": "可同时播放的视频数（4 - 12）。调低后，超出的视频会被关闭。免费版可以试用超过 4 个视频 1 小时，仅限一次（关闭程序即结束）。",
+  "Raising this may make the program slower.": "调高此值可能会使程序变慢。",
+  "Every video is decoded at the same time: more videos need more of the processor and memory.": "所有视频同时解码：视频越多，占用的处理器和内存越多。",
+  "Do not show again": "不再显示",
+  "Try more than 4 videos for {m} minutes?": "试用超过 4 个视频 {m} 分钟？",
+  "The free edition can play more than 4 videos at once for {m} minutes, once. It starts now and it is used up even if the program is closed before the time is over. More videos may make the program slower.\n\nThe full version has no limits.": "免费版可以同时播放超过 4 个视频 {m} 分钟，仅限一次。现在开始；即使在时间结束前关闭程序，也算已用完。视频越多，程序可能越慢。\n\n完整版没有限制。",
+  "The hour of more than 4 videos has been used.": "超过 4 个视频的 1 小时试用已用完。",
+  "The time of more than 4 videos is over.": "超过 4 个视频的时间已结束。",
+  "More-videos time left {t}": "多视频时间剩余 {t}",
+  "Whatever is selected: a video dropped onto a video replaces it; dropped onto the ground around the videos (with 1 - 2 videos, also near the edge of the window) it is added. When every cell is in use it replaces the video under it. Off: it is added, or replaces the selected video when every cell is in use.": "与选择状态无关：拖放到视频上会替换该视频；拖放到视频周围的背景（1 - 2 个视频时，也包括窗口边缘附近）会添加视频。所有格子都在使用时，替换放下位置的视频。关闭：添加视频（所有格子都在使用时替换所选视频）。",
+  "Grid 3 x 2": "网格 3 × 2",
+  "Grid 2 x 3": "网格 2 × 3",
+  "Grid 3 x 3": "网格 3 × 3",
+  "Grid 4 x 3": "网格 4 × 3",
+  "Grid 3 x 4": "网格 3 × 4",
+  "Grid 4 x 4": "网格 4 × 4"
  }
 }
