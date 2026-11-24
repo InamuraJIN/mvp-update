@@ -717,6 +717,27 @@
   "Grid 3 x 3": "グリッド 3 × 3",
   "Grid 4 x 3": "グリッド 4 × 3",
   "Grid 3 x 4": "グリッド 3 × 4",
-  "Grid 4 x 4": "グリッド 4 × 4"
+  "Grid 4 x 4": "グリッド 4 × 4",
+  "Replace area (%)": "差し替え範囲 (%)",
+  "UI size: the text and the icons of the menus, the windows and the seekbars, larger or smaller together.": "UIサイズ: メニュー、ウィンドウ、シークバーの文字とアイコンを、まとめて大きく／小さくします。",
+  "Whatever is selected: a video dropped onto a video replaces it; dropped onto the ground around the videos it is added. With 1 - 2 videos only the middle of the picture replaces (Replace area: that share of the picture's width and height); outside it the video is added. When every cell is in use it replaces the video under it. Off: it is added, or replaces the selected video when every cell is in use.": "選択状態に関わらず、動画の上にドロップするとその動画と差し替え、動画の周りの背景部分にドロップすると追加します。動画が 1～2 本のときは、映像の中央部分（差し替え範囲: 映像の幅と高さに対する割合）だけが差し替えになり、その外側では追加します。すべてのセルが使用中のときは、ドロップした位置の動画と差し替えます。オフ: 追加します（すべてのセルが使用中のときは選択中の動画と差し替えます）。",
+  "Header > Layout: layouts for 2 to 12 videos, with icons: Grid (3 x 2 up to 4 x 4 for more videos), Top / Left / Right / Under One, Vertical / Horizontal Split. Ctrl+Shift+1 / 2 / 3 switch them, and a favorite keeps its layout.": "ヘッダー > レイアウト: 2～12 本の動画のレイアウトをアイコン付きで選べます。グリッド（動画が多いときは 3 × 2～4 × 4）、上に1つ／左に1つ／右に1つ／下に1つ、縦分割／横分割。Ctrl+Shift+1 / 2 / 3 で切り替えられ、お気に入りはレイアウトも保存します。",
+  "Settings > Display > Layout > Max videos: up to 12 videos at once (default 4; the free edition can try more than 4 for one hour, once).": "設定 > 表示 > レイアウト > 最大動画数: 最大 12 本の動画を同時に再生できます（既定は 4。無料版は 4 本を超える数を 1 時間だけ、1 回限り試せます）。",
+  "Hold Ctrl and drag the lines between the videos to resize them; Ctrl + Shift + drag moves one half of a line on its own; Ctrl + click puts the line back in the middle. The lines are saved with a favorite.": "Ctrl を押しながら動画の間の線をドラッグすると動画の大きさを変えられます。Ctrl + Shift + ドラッグで線の半分だけを個別に動かせ、Ctrl + クリックで線を中央に戻します。線の位置はお気に入りに保存されます。",
+  "A splash screen at the start: open files, favorites, recover the last session, recent videos and What's new (Help > Show Splash).": "起動時のスプラッシュスクリーン: ファイルを開く、お気に入り、前回のセッションの復元、最近の動画、新機能（ヘルプ > スプラッシュスクリーンを表示）。",
+  "File > Open Files (Ctrl+O), Open Recent (Ctrl+Shift+O), and Shift+O adds a video or replaces the selected one.": "ファイル > ファイルを開く（Ctrl+O）、最近使ったファイル（Ctrl+Shift+O）。Shift+O で動画を追加、または選択中の動画と差し替えます。",
+  "Play > Reverse Play (Alt+Space): plays backwards (without sound) and keeps to the A-B range.": "再生 > 逆再生（Alt+Space）: 逆方向に再生します（音声なし）。A-B 範囲も守ります。",
+  "Settings > Controls > Mouse: hold the left button on a video to play it faster while held; drop a video onto a video to replace it, or onto the ground around the videos to add it; drag with the middle button to move a zoomed-in video.": "設定 > 操作 > マウス: 動画の上で左ボタンを押し続けると、その間だけ速く再生します。動画を動画の上にドロップすると差し替え、動画の周りの背景にドロップすると追加します。中ボタンでドラッグすると、拡大した動画を動かせます。",
+  "Settings > General > Sound: hear every video at once, or give each video its own volume.": "設定 > 全般 > 音: すべての動画の音を同時に聞く、または動画ごとに音量を設定できます。",
+  "Settings > General > Window > UI size and Icon balance: the text and the icons of the menus, the windows and the seekbars change size at once.": "設定 > 全般 > ウィンドウ > UIサイズ / アイコンのバランス: メニュー、ウィンドウ、シークバーの文字とアイコンの大きさがすぐに変わります。",
+  "Settings > General > Window > Text: the text colour follows the theme, or a colour of your own.": "設定 > 全般 > ウィンドウ > 文字: 文字の色はテーマに合わせるか、好きな色を選べます。",
+  "The header menus show their keys on the right, a Profile menu switches profiles, and a menu can stay open after a click (Settings > Controls > Menus).": "ヘッダーのメニューは右側にキーを表示します。プロファイルメニューでプロファイルを切り替えられ、クリック後もメニューを開いたままにできます（設定 > 操作 > メニュー）。",
+  "Shortcuts (F1): search by name or by key, sort by function or alphabetically, and keep the window open beside the player.": "ショートカット（F1）: 名前やキーで検索、機能順・アルファベット順の並べ替え。プレイヤーの横に開いたまま使えます。",
+  "A right click during a drag cancels it: sliders, the seekbar, the colour picker and the lines between the videos go back.": "ドラッグ中に右クリックするとキャンセルし、スライダー、シークバー、カラーピッカー、動画の間の線が元に戻ります。",
+  "Opening a favorite: Settings > General > Favorites chooses what it loads (places, layout, zoom / trim, volume, playback position, A-B repeat).": "お気に入りを開くとき: 設定 > 全般 > お気に入り で読み込む内容（配置、レイアウト、ズーム／トリミング、音量、再生位置、A-Bリピート）を選べます。",
+  "Settings > Display > Layout > Keep on layout change: keep the size of the window or the size of the videos.": "設定 > 表示 > レイアウト > レイアウト変更時に優先: ウィンドウの大きさか動画の大きさを保ちます。",
+  "Capture options: Video frame only saves the frame at its own size; with only zoom / trim on, the video's own pixels are kept.": "キャプチャのオプション: 「動画のフレームのみ」でフレームを元の大きさで保存します。ズーム／トリミングだけがオンのときは、動画本来の画素のまま保存します。",
+  "The mouse pointer hides only over the videos; Settings > Display > Tool Tips can switch the tips off.": "マウスポインターは動画の上でだけ隠れます。設定 > 表示 > ツールチップ でツールチップを消せます。",
+  "Opacities are set from 0.0 to 1.0 everywhere.": "不透明度はすべて 0.0～1.0 で設定します。"
  }
 }

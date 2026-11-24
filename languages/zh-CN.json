@@ -717,6 +717,27 @@
   "Grid 3 x 3": "网格 3 × 3",
   "Grid 4 x 3": "网格 4 × 3",
   "Grid 3 x 4": "网格 3 × 4",
-  "Grid 4 x 4": "网格 4 × 4"
+  "Grid 4 x 4": "网格 4 × 4",
+  "Replace area (%)": "替换范围 (%)",
+  "UI size: the text and the icons of the menus, the windows and the seekbars, larger or smaller together.": "界面大小：菜单、窗口和进度条中的文字与图标一起放大或缩小。",
+  "Whatever is selected: a video dropped onto a video replaces it; dropped onto the ground around the videos it is added. With 1 - 2 videos only the middle of the picture replaces (Replace area: that share of the picture's width and height); outside it the video is added. When every cell is in use it replaces the video under it. Off: it is added, or replaces the selected video when every cell is in use.": "与选择状态无关：拖放到视频上会替换该视频；拖放到视频周围的背景会添加视频。1 - 2 个视频时，只有画面中央部分会替换（替换范围：占画面宽度和高度的比例），其外侧会添加视频。所有格子都在使用时，替换放下位置的视频。关闭：添加视频（所有格子都在使用时替换所选视频）。",
+  "Header > Layout: layouts for 2 to 12 videos, with icons: Grid (3 x 2 up to 4 x 4 for more videos), Top / Left / Right / Under One, Vertical / Horizontal Split. Ctrl+Shift+1 / 2 / 3 switch them, and a favorite keeps its layout.": "标题栏 > 布局：2 到 12 个视频的布局，带图标：网格（视频较多时为 3 × 2 到 4 × 4）、上方一个 / 左侧一个 / 右侧一个 / 下方一个、纵向分割 / 横向分割。Ctrl+Shift+1 / 2 / 3 可切换，收藏也会保存布局。",
+  "Settings > Display > Layout > Max videos: up to 12 videos at once (default 4; the free edition can try more than 4 for one hour, once).": "设置 > 显示 > 布局 > 最多视频数：最多可同时播放 12 个视频（默认 4；免费版可以试用超过 4 个视频 1 小时，仅限一次）。",
+  "Hold Ctrl and drag the lines between the videos to resize them; Ctrl + Shift + drag moves one half of a line on its own; Ctrl + click puts the line back in the middle. The lines are saved with a favorite.": "按住 Ctrl 拖动视频之间的线可调整视频大小；Ctrl + Shift + 拖动可单独移动线的一半；Ctrl + 点击把线放回中间。线的位置会随收藏保存。",
+  "A splash screen at the start: open files, favorites, recover the last session, recent videos and What's new (Help > Show Splash).": "启动时的启动画面：打开文件、收藏夹、恢复上次会话、最近的视频和新功能（帮助 > 显示启动画面）。",
+  "File > Open Files (Ctrl+O), Open Recent (Ctrl+Shift+O), and Shift+O adds a video or replaces the selected one.": "文件 > 打开文件（Ctrl+O）、最近打开（Ctrl+Shift+O）；Shift+O 添加视频或替换所选视频。",
+  "Play > Reverse Play (Alt+Space): plays backwards (without sound) and keeps to the A-B range.": "播放 > 倒放（Alt+Space）：向后播放（无声音），并遵守 A-B 范围。",
+  "Settings > Controls > Mouse: hold the left button on a video to play it faster while held; drop a video onto a video to replace it, or onto the ground around the videos to add it; drag with the middle button to move a zoomed-in video.": "设置 > 操作 > 鼠标：在视频上按住左键时加速播放；把视频拖放到视频上会替换它，拖放到视频周围的背景会添加；用中键拖动可移动放大的视频。",
+  "Settings > General > Sound: hear every video at once, or give each video its own volume.": "设置 > 常规 > 声音：同时听所有视频的声音，或为每个视频单独设置音量。",
+  "Settings > General > Window > UI size and Icon balance: the text and the icons of the menus, the windows and the seekbars change size at once.": "设置 > 常规 > 窗口 > 界面大小 / 图标比例：菜单、窗口和进度条中的文字与图标大小立即改变。",
+  "Settings > General > Window > Text: the text colour follows the theme, or a colour of your own.": "设置 > 常规 > 窗口 > 文字：文字颜色跟随主题，或使用自选颜色。",
+  "The header menus show their keys on the right, a Profile menu switches profiles, and a menu can stay open after a click (Settings > Controls > Menus).": "标题栏菜单在右侧显示快捷键，配置文件菜单可切换配置文件，点击后菜单可保持打开（设置 > 操作 > 菜单）。",
+  "Shortcuts (F1): search by name or by key, sort by function or alphabetically, and keep the window open beside the player.": "快捷键（F1）：按名称或按键搜索，按功能或字母排序，并可在播放器旁保持打开。",
+  "A right click during a drag cancels it: sliders, the seekbar, the colour picker and the lines between the videos go back.": "拖动时右键单击会取消：滑块、进度条、取色器和视频之间的线都会复原。",
+  "Opening a favorite: Settings > General > Favorites chooses what it loads (places, layout, zoom / trim, volume, playback position, A-B repeat).": "打开收藏时：设置 > 常规 > 收藏夹 可选择加载的内容（位置、布局、缩放 / 裁剪、音量、播放位置、A-B 循环）。",
+  "Settings > Display > Layout > Keep on layout change: keep the size of the window or the size of the videos.": "设置 > 显示 > 布局 > 更改布局时保持：保持窗口大小或视频大小。",
+  "Capture options: Video frame only saves the frame at its own size; with only zoom / trim on, the video's own pixels are kept.": "捕获选项：“仅视频帧”按原始大小保存帧；只开启缩放 / 裁剪时，保留视频本身的像素。",
+  "The mouse pointer hides only over the videos; Settings > Display > Tool Tips can switch the tips off.": "鼠标指针只在视频上方隐藏；设置 > 显示 > 工具提示 可关闭提示。",
+  "Opacities are set from 0.0 to 1.0 everywhere.": "所有不透明度均以 0.0 到 1.0 设置。"
  }
 }
