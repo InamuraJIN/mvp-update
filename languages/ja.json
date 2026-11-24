@@ -726,7 +726,6 @@
   "Hold Ctrl and drag the lines between the videos to resize them; Ctrl + Shift + drag moves one half of a line on its own; Ctrl + click puts the line back in the middle. The lines are saved with a favorite.": "Ctrl を押しながら動画の間の線をドラッグすると動画の大きさを変えられます。Ctrl + Shift + ドラッグで線の半分だけを個別に動かせ、Ctrl + クリックで線を中央に戻します。線の位置はお気に入りに保存されます。",
   "A splash screen at the start: open files, favorites, recover the last session, recent videos and What's new (Help > Show Splash).": "起動時のスプラッシュスクリーン: ファイルを開く、お気に入り、前回のセッションの復元、最近の動画、新機能（ヘルプ > スプラッシュスクリーンを表示）。",
   "File > Open Files (Ctrl+O), Open Recent (Ctrl+Shift+O), and Shift+O adds a video or replaces the selected one.": "ファイル > ファイルを開く（Ctrl+O）、最近使ったファイル（Ctrl+Shift+O）。Shift+O で動画を追加、または選択中の動画と差し替えます。",
-  "Play > Reverse Play (Alt+Space): plays backwards (without sound) and keeps to the A-B range.": "再生 > 逆再生（Alt+Space）: 逆方向に再生します（音声なし）。A-B 範囲も守ります。",
   "Settings > Controls > Mouse: hold the left button on a video to play it faster while held; drop a video onto a video to replace it, or onto the ground around the videos to add it; drag with the middle button to move a zoomed-in video.": "設定 > 操作 > マウス: 動画の上で左ボタンを押し続けると、その間だけ速く再生します。動画を動画の上にドロップすると差し替え、動画の周りの背景にドロップすると追加します。中ボタンでドラッグすると、拡大した動画を動かせます。",
   "Settings > General > Sound: hear every video at once, or give each video its own volume.": "設定 > 全般 > 音: すべての動画の音を同時に聞く、または動画ごとに音量を設定できます。",
   "Settings > General > Window > UI size and Icon balance: the text and the icons of the menus, the windows and the seekbars change size at once.": "設定 > 全般 > ウィンドウ > UIサイズ / アイコンのバランス: メニュー、ウィンドウ、シークバーの文字とアイコンの大きさがすぐに変わります。",
@@ -738,6 +737,11 @@
   "Settings > Display > Layout > Keep on layout change: keep the size of the window or the size of the videos.": "設定 > 表示 > レイアウト > レイアウト変更時に優先: ウィンドウの大きさか動画の大きさを保ちます。",
   "Capture options: Video frame only saves the frame at its own size; with only zoom / trim on, the video's own pixels are kept.": "キャプチャのオプション: 「動画のフレームのみ」でフレームを元の大きさで保存します。ズーム／トリミングだけがオンのときは、動画本来の画素のまま保存します。",
   "The mouse pointer hides only over the videos; Settings > Display > Tool Tips can switch the tips off.": "マウスポインターは動画の上でだけ隠れます。設定 > 表示 > ツールチップ でツールチップを消せます。",
-  "Opacities are set from 0.0 to 1.0 everywhere.": "不透明度はすべて 0.0～1.0 で設定します。"
+  "Opacities are set from 0.0 to 1.0 everywhere.": "不透明度はすべて 0.0～1.0 で設定します。",
+  "Leave full screen / Minimize": "全画面の解除／最小化",
+  "Delete the current ranking?\nIt is deleted when you press OK.": "現在のランキングを削除しますか?\nOK を押したときに削除されます。",
+  "Play > Reverse Play (Alt+Space): plays backwards, the sound backwards too, and keeps to the A-B range.": "再生 > 逆再生（Alt+Space）: 逆方向に再生します（音声も逆方向に再生）。A-B 範囲も守ります。",
+  "Esc leaves full screen; in a window it minimizes the window (an open popup such as Settings closes first).": "Esc で全画面を解除します。ウィンドウ表示中は最小化します（設定などのポップアップが開いているときは、先にそれを閉じます）。",
+  "Settings > General > Ranking > Count by: changing it asks whether to delete the current ranking.": "設定 > 全般 > ランキング > 集計方法: 変更すると、現在のランキングを削除するかを確認します。"
  }
 }

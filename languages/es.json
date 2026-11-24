@@ -726,7 +726,6 @@
   "Hold Ctrl and drag the lines between the videos to resize them; Ctrl + Shift + drag moves one half of a line on its own; Ctrl + click puts the line back in the middle. The lines are saved with a favorite.": "Mantén Ctrl y arrastra las líneas entre los vídeos para cambiar su tamaño; Ctrl + Mayús + arrastrar mueve una mitad de una línea por sí sola; Ctrl + clic devuelve la línea al centro. Las líneas se guardan con un favorito.",
   "A splash screen at the start: open files, favorites, recover the last session, recent videos and What's new (Help > Show Splash).": "Pantalla de inicio al arrancar: abrir archivos, favoritos, recuperar la última sesión, vídeos recientes y novedades (Ayuda > Mostrar la pantalla de inicio).",
   "File > Open Files (Ctrl+O), Open Recent (Ctrl+Shift+O), and Shift+O adds a video or replaces the selected one.": "Archivo > Abrir archivos (Ctrl+O), Abrir recientes (Ctrl+Mayús+O); Mayús+O añade un vídeo o reemplaza el seleccionado.",
-  "Play > Reverse Play (Alt+Space): plays backwards (without sound) and keeps to the A-B range.": "Reproducir > Reproducir al revés (Alt+Espacio): reproduce hacia atrás (sin sonido) y respeta el rango A-B.",
   "Settings > Controls > Mouse: hold the left button on a video to play it faster while held; drop a video onto a video to replace it, or onto the ground around the videos to add it; drag with the middle button to move a zoomed-in video.": "Ajustes > Controles > Ratón: mantén el botón izquierdo sobre un vídeo para reproducirlo más rápido mientras lo mantienes; suelta un vídeo sobre un vídeo para reemplazarlo, o sobre el fondo alrededor de los vídeos para añadirlo; arrastra con el botón central para mover un vídeo ampliado.",
   "Settings > General > Sound: hear every video at once, or give each video its own volume.": "Ajustes > General > Sonido: escucha todos los vídeos a la vez o da a cada vídeo su propio volumen.",
   "Settings > General > Window > UI size and Icon balance: the text and the icons of the menus, the windows and the seekbars change size at once.": "Ajustes > General > Ventana > Tamaño de la interfaz / Equilibrio de iconos: el texto y los iconos de los menús, las ventanas y las barras de búsqueda cambian de tamaño al momento.",
@@ -738,6 +737,11 @@
   "Settings > Display > Layout > Keep on layout change: keep the size of the window or the size of the videos.": "Ajustes > Pantalla > Disposición > Al cambiar la disposición, mantener: conserva el tamaño de la ventana o el de los vídeos.",
   "Capture options: Video frame only saves the frame at its own size; with only zoom / trim on, the video's own pixels are kept.": "Opciones de captura: Solo el fotograma del vídeo guarda el fotograma a su propio tamaño; con solo zoom / recorte activado se conservan los píxeles del propio vídeo.",
   "The mouse pointer hides only over the videos; Settings > Display > Tool Tips can switch the tips off.": "El puntero del ratón solo se oculta sobre los vídeos; Ajustes > Pantalla > Información emergente puede desactivar las sugerencias.",
-  "Opacities are set from 0.0 to 1.0 everywhere.": "Las opacidades se ajustan de 0.0 a 1.0 en todas partes."
+  "Opacities are set from 0.0 to 1.0 everywhere.": "Las opacidades se ajustan de 0.0 a 1.0 en todas partes.",
+  "Leave full screen / Minimize": "Salir de pantalla completa / Minimizar",
+  "Delete the current ranking?\nIt is deleted when you press OK.": "¿Eliminar la clasificación actual?\nSe elimina al pulsar Aceptar.",
+  "Play > Reverse Play (Alt+Space): plays backwards, the sound backwards too, and keeps to the A-B range.": "Reproducir > Reproducir al revés (Alt+Space): reproduce hacia atrás, también el sonido, y respeta el rango A-B.",
+  "Esc leaves full screen; in a window it minimizes the window (an open popup such as Settings closes first).": "Esc sale de la pantalla completa; en una ventana la minimiza (una ventana emergente abierta, como Ajustes, se cierra primero).",
+  "Settings > General > Ranking > Count by: changing it asks whether to delete the current ranking.": "Ajustes > General > Ranking > Contar por: al cambiarlo pregunta si se elimina el ranking actual."
  }
 }

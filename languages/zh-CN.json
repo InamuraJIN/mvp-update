@@ -726,7 +726,6 @@
   "Hold Ctrl and drag the lines between the videos to resize them; Ctrl + Shift + drag moves one half of a line on its own; Ctrl + click puts the line back in the middle. The lines are saved with a favorite.": "按住 Ctrl 拖动视频之间的线可调整视频大小；Ctrl + Shift + 拖动可单独移动线的一半；Ctrl + 点击把线放回中间。线的位置会随收藏保存。",
   "A splash screen at the start: open files, favorites, recover the last session, recent videos and What's new (Help > Show Splash).": "启动时的启动画面：打开文件、收藏夹、恢复上次会话、最近的视频和新功能（帮助 > 显示启动画面）。",
   "File > Open Files (Ctrl+O), Open Recent (Ctrl+Shift+O), and Shift+O adds a video or replaces the selected one.": "文件 > 打开文件（Ctrl+O）、最近打开（Ctrl+Shift+O）；Shift+O 添加视频或替换所选视频。",
-  "Play > Reverse Play (Alt+Space): plays backwards (without sound) and keeps to the A-B range.": "播放 > 倒放（Alt+Space）：向后播放（无声音），并遵守 A-B 范围。",
   "Settings > Controls > Mouse: hold the left button on a video to play it faster while held; drop a video onto a video to replace it, or onto the ground around the videos to add it; drag with the middle button to move a zoomed-in video.": "设置 > 操作 > 鼠标：在视频上按住左键时加速播放；把视频拖放到视频上会替换它，拖放到视频周围的背景会添加；用中键拖动可移动放大的视频。",
   "Settings > General > Sound: hear every video at once, or give each video its own volume.": "设置 > 常规 > 声音：同时听所有视频的声音，或为每个视频单独设置音量。",
   "Settings > General > Window > UI size and Icon balance: the text and the icons of the menus, the windows and the seekbars change size at once.": "设置 > 常规 > 窗口 > 界面大小 / 图标比例：菜单、窗口和进度条中的文字与图标大小立即改变。",
@@ -738,6 +737,11 @@
   "Settings > Display > Layout > Keep on layout change: keep the size of the window or the size of the videos.": "设置 > 显示 > 布局 > 更改布局时保持：保持窗口大小或视频大小。",
   "Capture options: Video frame only saves the frame at its own size; with only zoom / trim on, the video's own pixels are kept.": "捕获选项：“仅视频帧”按原始大小保存帧；只开启缩放 / 裁剪时，保留视频本身的像素。",
   "The mouse pointer hides only over the videos; Settings > Display > Tool Tips can switch the tips off.": "鼠标指针只在视频上方隐藏；设置 > 显示 > 工具提示 可关闭提示。",
-  "Opacities are set from 0.0 to 1.0 everywhere.": "所有不透明度均以 0.0 到 1.0 设置。"
+  "Opacities are set from 0.0 to 1.0 everywhere.": "所有不透明度均以 0.0 到 1.0 设置。",
+  "Leave full screen / Minimize": "退出全屏 / 最小化",
+  "Delete the current ranking?\nIt is deleted when you press OK.": "要删除当前排行吗?\n按下“确定”时删除。",
+  "Play > Reverse Play (Alt+Space): plays backwards, the sound backwards too, and keeps to the A-B range.": "播放 > 倒放（Alt+Space）：向后播放，声音也倒放，并保持在 A-B 范围内。",
+  "Esc leaves full screen; in a window it minimizes the window (an open popup such as Settings closes first).": "Esc 退出全屏；窗口模式下将窗口最小化（若有设置等弹出窗口打开，先关闭它）。",
+  "Settings > General > Ranking > Count by: changing it asks whether to delete the current ranking.": "设置 > 常规 > 排行 > 统计方式：更改时会询问是否删除当前排行。"
  }
 }
