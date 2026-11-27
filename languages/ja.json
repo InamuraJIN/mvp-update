@@ -832,6 +832,12 @@
   "Each profile keeps its own favorites, ranking, playlists and settings (colors, display, background ...). Choosing another one switches at once. UI size, the capture settings, the splash screen and the tooltips are shared by all profiles.": "プロファイルごとに、お気に入り・ランキング・プレイリスト・設定（色、表示、背景など）を別々に持ちます。別のプロファイルを選ぶとすぐに切り替わります。UIサイズ、キャプチャの設定、スプラッシュスクリーン、ツールチップは全プロファイル共通です。",
   "Copy settings of this profile (colors, display, background ...) to all the other profiles or to one of them.": "このプロファイルの設定（色、表示、背景など）を、ほかのすべてのプロファイル、または選んだプロファイルにコピーします。",
   "Put the settings of the chosen tab, or the settings of the chosen profile (colors, display, background ...), back to the factory settings.": "選んだタブの設定、または選んだプロファイルの設定（色、表示、背景など）を工場出荷時の設定に戻します。",
-  "When videos are opened, added or replaced, the layout is chosen by itself. 2 videos: when they are taller than wide by the Ratio or more, side by side (Vertical Split); wider than tall by the Ratio or more, one above the other (Horizontal Split); in between, the one that shows them larger. 3 or more: the video of the highest resolution is the big one, at the place of Main video.": "動画を開く・追加する・差し替えるたびに、レイアウトを自動で選びます。2 本: 2 本を合わせた形が「比率」以上に縦長なら左右に並べ（縦分割）、「比率」以上に横長なら上下に並べます（横分割）。その間なら、動画が大きく映る方を選びます。3 本以上: いちばん高解像度の動画を大きく、「メインの動画」の位置に置きます。"
+  "When videos are opened, added or replaced, the layout is chosen by itself. 2 videos: when they are taller than wide by the Ratio or more, side by side (Vertical Split); wider than tall by the Ratio or more, one above the other (Horizontal Split); in between, the one that shows them larger. 3 or more: the video of the highest resolution is the big one, at the place of Main video.": "動画を開く・追加する・差し替えるたびに、レイアウトを自動で選びます。2 本: 2 本を合わせた形が「比率」以上に縦長なら左右に並べ（縦分割）、「比率」以上に横長なら上下に並べます（横分割）。その間なら、動画が大きく映る方を選びます。3 本以上: いちばん高解像度の動画を大きく、「メインの動画」の位置に置きます。",
+  "Keep the speed for the next video": "次の動画も同じ再生速度",
+  "On: a video changed to another speed (C / X) plays the next video at that speed too. Off: every video starts at normal speed.": "オン: 再生速度を変えた（C / X）動画の次の動画も、その速度で再生します。オフ: どの動画も通常の速度で始まります。",
+  "Show in Explorer": "エクスプローラーで表示",
+  "Slideshow / playlist: next file": "スライドショー / プレイリスト: 次のファイル",
+  "Slideshow / playlist: previous file": "スライドショー / プレイリスト: 前のファイル",
+  "Slideshow / playlist: Ctrl+Shift+Right / Left goes to the next / previous file (and it plays); the folder mark of a file shows it in Explorer; the next video keeps the speed of the one before (can be turned off).": "スライドショー / プレイリスト: Ctrl+Shift+→ / ← で次 / 前のファイルへ（必ず再生します）。ファイルのフォルダマークでエクスプローラーに表示。次の動画も前の動画と同じ再生速度で再生します（オフにもできます）。"
  }
 }

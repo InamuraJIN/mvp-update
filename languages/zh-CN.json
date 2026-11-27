@@ -832,6 +832,12 @@
   "Each profile keeps its own favorites, ranking, playlists and settings (colors, display, background ...). Choosing another one switches at once. UI size, the capture settings, the splash screen and the tooltips are shared by all profiles.": "每个配置文件都有自己的收藏、排行、播放列表和设置（颜色、显示、背景等）。选择其他配置文件会立即切换。界面大小、截图设置、启动画面和工具提示由所有配置文件共用。",
   "Copy settings of this profile (colors, display, background ...) to all the other profiles or to one of them.": "将此配置文件的设置（颜色、显示、背景等）复制到其他所有配置文件或其中一个。",
   "Put the settings of the chosen tab, or the settings of the chosen profile (colors, display, background ...), back to the factory settings.": "将所选标签页的设置或所选配置文件的设置（颜色、显示、背景等）恢复为出厂设置。",
-  "When videos are opened, added or replaced, the layout is chosen by itself. 2 videos: when they are taller than wide by the Ratio or more, side by side (Vertical Split); wider than tall by the Ratio or more, one above the other (Horizontal Split); in between, the one that shows them larger. 3 or more: the video of the highest resolution is the big one, at the place of Main video.": "打开、添加或替换视频时，会自动选择布局。2 个视频：两者合起来比“比例”更纵长时左右并排（纵向分割），比“比例”更横长时上下排列（横向分割）；介于两者之间时，选择显示更大的方式。3 个或以上：分辨率最高的视频显示为大画面，放在“主视频”的位置。"
+  "When videos are opened, added or replaced, the layout is chosen by itself. 2 videos: when they are taller than wide by the Ratio or more, side by side (Vertical Split); wider than tall by the Ratio or more, one above the other (Horizontal Split); in between, the one that shows them larger. 3 or more: the video of the highest resolution is the big one, at the place of Main video.": "打开、添加或替换视频时，会自动选择布局。2 个视频：两者合起来比“比例”更纵长时左右并排（纵向分割），比“比例”更横长时上下排列（横向分割）；介于两者之间时，选择显示更大的方式。3 个或以上：分辨率最高的视频显示为大画面，放在“主视频”的位置。",
+  "Keep the speed for the next video": "下一个视频保持相同速度",
+  "On: a video changed to another speed (C / X) plays the next video at that speed too. Off: every video starts at normal speed.": "开启：更改了速度（C / X）的视频之后的下一个视频也以该速度播放。关闭：每个视频都以正常速度开始。",
+  "Show in Explorer": "在资源管理器中显示",
+  "Slideshow / playlist: next file": "幻灯片 / 播放列表：下一个文件",
+  "Slideshow / playlist: previous file": "幻灯片 / 播放列表：上一个文件",
+  "Slideshow / playlist: Ctrl+Shift+Right / Left goes to the next / previous file (and it plays); the folder mark of a file shows it in Explorer; the next video keeps the speed of the one before (can be turned off).": "幻灯片 / 播放列表：Ctrl+Shift+→ / ← 切换到下一个 / 上一个文件（并播放）；文件旁的文件夹图标可在资源管理器中显示该文件；下一个视频保持上一个视频的速度（可关闭）。"
  }
 }
